@@ -23,9 +23,9 @@
 
   | Project | What it is |
   |---|---|
-  | CRM: https://github.com/rigwe1965/REPO | Sales and support teams, agencies, and any business that lives on customer relationships |
-  | RMM: https://github.com/rigwe1965/REPO | Managed service providers and IT teams responsible for many computers |
-  | claudeOS: https://github.com/rigwe1965/REPO| One control center for all your AI work |
+  | CRM: https://github.com/rigwe1965/CRM | Sales and support teams, agencies, and any business that lives on customer relationships |
+  | RMM: https://github.com/rigwe1965/remotemanagementsystem | Managed service providers and IT teams responsible for many computers |
+  | claudeOS: https://github.com/rigwe1965/claudeOS | One control center for all your AI work |
 
   ## What I care about
 
